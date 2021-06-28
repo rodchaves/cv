@@ -36,6 +36,7 @@ I've worked with quantum information since my master's degree. In my master's de
 
 ### Current Research Interests:
 
+* Quantum Information
 * Quantum Computing
  * Quantum Walks
  * Quantum Chemistry
