@@ -30,7 +30,7 @@ I've worked with quantum information since my master's degree. In my master's de
 ### Certifications and awards:
 
 * Science without Borders scholarship, University of Manchester: 2014-2015
- * Coursed one year through scholarship program of the Brazilian Government and I was part of a summer project
+  * Coursed one year through scholarship program of the Brazilian Government and I was part of a summer project
 
 ### Current Research Interests:
 
