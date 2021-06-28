@@ -1,3 +1,8 @@
+## Hello, world!
+
+I've worked with quantum information since my master's degree. In my master's degree, I worked with quantum cryptography which led me to seek more practical applications of quantum mechanics. 
+
+
 # Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rodchaves/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
