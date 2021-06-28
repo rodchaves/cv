@@ -25,3 +25,16 @@ I've worked with quantum information since my master's degree. In my master's de
 ### Publications:
 
 * [Influence of annealing temperature and Sn doping on the optical properties of hematite thin films determined by spectroscopic ellipsometry](https://aip.scitation.org/doi/abs/10.1063/1.4954315)
+
+### Current Research Interests:
+
+* Quantum Computing
+ * Quantum Walks
+ * Quantum Chemistry
+ * Quantum Machine Learning
+ * Quantum Algorithms in Optimization Problems
+
+### Talks:
+
+* ILAS 2019, Brazil
+ *  Using quantum state discrimination strategies to attack quantum-key distribution protocols
