@@ -44,5 +44,5 @@ I've worked with quantum information since my master's degree. In my master's de
 
 ### Talks:
 
-* ILAS 2019, Brazil
+* [ILAS 2019](http://ilas2019.org/), Brazil
   *  Using quantum state discrimination strategies to attack quantum-key distribution protocols
