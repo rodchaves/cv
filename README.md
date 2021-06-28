@@ -8,6 +8,7 @@ I've worked with quantum information since my master's degree. In my master's de
 * M. Sc. Federal Univeristy of Minas Gerais, Physics: 2016-2018
 * B.Sc. Federal University of Minas Gerais, Physics: 2011-2016
 
+
 ### Experience:
 
 * Undergraduate tutor, Federal University of Minas Gerais: 2019
@@ -25,6 +26,11 @@ I've worked with quantum information since my master's degree. In my master's de
 ### Publications:
 
 * [Influence of annealing temperature and Sn doping on the optical properties of hematite thin films determined by spectroscopic ellipsometry](https://aip.scitation.org/doi/abs/10.1063/1.4954315)
+
+### Certifications and awards:
+
+* Science without Borders scholarship, University of Manchester: 2014-2015
+ * Coursed one year through scholarship program of the Brazilian Government and I was part of a summer project
 
 ### Current Research Interests:
 
