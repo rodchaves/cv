@@ -4,11 +4,11 @@ I've worked with quantum information since my master's degree. In my master's de
 
 ### Education:
 
-* Ph.D. Federal University of Minas Gerais, Computer Science: 2018-Present
+* Ph.D. candidate at Federal University of Minas Gerais, Computer Science: 2018-Present
   * Quantum walks and quantum computation, supervised by [Gabriel Coutinho](https://homepages.dcc.ufmg.br/~gabriel/)
-* M. Sc. Federal Univeristy of Minas Gerais, Physics: 2016-2018
+* M. Sc. at Federal Univeristy of Minas Gerais, Physics: 2016-2018
   * Using quantum state discrimination strategies to attack quantum-key distribution protocols, supervised by [Leonardo Neves](http://lattes.cnpq.br/0174392273282011)
-* B.Sc. Federal University of Minas Gerais, Physics: 2011-2016
+* B.Sc. at Federal University of Minas Gerais, Physics: 2011-2016
 
 
 ### Experience:
