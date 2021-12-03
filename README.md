@@ -29,6 +29,8 @@ I've worked with quantum information since my master's degree. In my master's de
 
 * [Influence of annealing temperature and Sn doping on the optical properties of hematite thin films determined by spectroscopic ellipsometry](https://aip.scitation.org/doi/abs/10.1063/1.4954315)
 
+* [Quantum Walks in a Superconducting Quantum Computer](https://sol.sbc.org.br/index.php/wquantum/article/view/17223/17061)
+
 ### Certifications and awards:
 
 * Science without Borders scholarship, University of Manchester: 2014-2015
