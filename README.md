@@ -34,17 +34,19 @@ I've worked with quantum information since my master's degree. In my master's de
 
 ### Certifications and awards:
 
+* Qiskit Global Summer School in Quantum Machine Learning: 2021
+  * Completed the course offered by IBM about quantum machine learning
+  
+* IBM Quantum Challenge Africa: 2021
+  * Challenge offered by IBM about crop-yield problem, option pricing theory, and quantum chemistry.
+ 
+* IBM Quantum Challenge Fall - Advanced
+  * Challenged offered by IBM about portfolio optimization, band gap calculations of OLED molecules, image classifcation by QSVM, and battery revenue optimization.
+
 * Science without Borders scholarship, University of Manchester: 2014-2015
   * Coursed one year through scholarship program of the Brazilian Government and I was part of a summer project
 
-### Current Research Interests:
 
-* Quantum Information
-* Quantum Computing
- * Quantum Walks
- * Quantum Chemistry
- * Quantum Machine Learning
- * Quantum Algorithms in Optimization Problems
 
 ### Talks:
 
