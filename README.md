@@ -35,7 +35,7 @@ I've worked with quantum information since my master's degree. In my master's de
 ### Certifications and awards:
 
 * Qiskit Global Summer School in Quantum Machine Learning: 2021
-  * Completed the course offered by IBM about quantum machine learning
+  * Completed the course offered by IBM about quantum machine learning.
   
 * IBM Quantum Challenge Africa: 2021
   * Challenge offered by IBM about crop-yield problem, option pricing theory, and quantum chemistry.
