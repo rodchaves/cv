@@ -14,8 +14,11 @@ I've worked with quantum information since my master's degree. In my master's de
 
 ### Experience:
 
-* Undergraduate tutor, Federal University of Minas Gerais: 2019
-  * Tutor of Computational Logic and Numerical Calculus as part of my PhD work
+* Teaching assitant, Instituto Brazil Quantum: 2021
+  * TA of quantum computing in the course Beer Quantum offered by the Instituto Brazil Quantum sponsored by Ambev. 
+
+* Teaching assistant, Federal University of Minas Gerais: 2019
+  * TA of Computational Logic and Numerical Calculus as part of my PhD work
 
 * Congress organization, LAGOS: 2019 
   * Helped the local organization team of the international congress LAGOS
