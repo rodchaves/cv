@@ -40,7 +40,7 @@ I've worked with quantum information since my master's degree. In my master's de
 * IBM Quantum Challenge Africa: 2021
   * Challenge offered by IBM about crop-yield problem, option pricing theory, and quantum chemistry.
  
-* IBM Quantum Challenge Fall - Advanced
+* IBM Quantum Challenge Fall - Advanced: 2021
   * Challenged offered by IBM about portfolio optimization, band gap calculations of OLED molecules, image classifcation by QSVM, and battery revenue optimization.
 
 * Science without Borders scholarship, University of Manchester: 2014-2015
